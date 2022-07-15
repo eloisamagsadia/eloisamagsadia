@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eloisamagsadia
-- 👀 I’m interested in web development
+- 👀 I’m a web developer and DevOps Engineer
 - 🌱 I’m currently learning different platforms in web development
 - 💞️ I’m looking to collaborate on other web developers
 - 📫 How to reach me magsadia.e@gmail.com
