@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eloisamagsadia
 - 👀 I’m a web developer and DevOps Engineer
-- 🌱 I’m currently learning different platforms in web development
-- 💞️ I’m looking to collaborate on other web developers
+- 🌱 I’m currently learning different platforms in web development and cloud services
+- 💞️ I’m looking to collaborate on other web developers and devOps engineer
 - 📫 How to reach me magsadia.e@gmail.com
 
 <!---
